@@ -1,11 +1,11 @@
-# MLNLP2022 Conference
+# MLNLP2023 Conference
 
-Welcome to MLNLP 2022 conference, please see [mlnlp2022.com](http://www.mlnlp2022.com) for more details.
+Welcome to MLNLP 2023 conference, please see [mlnlp2023.com](http://www.mlnlp2023.com) for more details.
 
-- Nov. 26 - Nov.27, 2022
+- Sept. 23 - Sept.24, 2023
 - Online conference
 
-For any question, please submit an issue or e-mail contact@mlnlp2022.com.
+For any question, please submit an issue.
 
 Welcome to follow our WeChat channel.
 
