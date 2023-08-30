@@ -1,66 +1,83 @@
 {
-  "session_name": "特色论坛: 论文实践报告 <span style=\"white-space: pre;word-break: break-word;\"> (11月26日 19:00-20:00) </span>",
-  "session_chair": "论坛主席：刘乾 (Sea AI Lab 研究科学家) &nbsp;&nbsp;&nbsp;&nbsp; 刘洪宇 (MLNLP 社区执行秘书长)",
-  "session_desc": "近些年人工智能技术飞速发展，有越来越多科研人员开始在领域内检索、投稿、撰写与发表论文。为了帮助初入领域的科研人员更快地上手论文的各方面实践，MLNLP社区贡献了许多优质的开源项目。本次论文实践论坛特别邀请了来自MLNLP社区的三位热爱开源的研究员进行分享，他们将分别从论文写作、论文画图和论文检索等角度切入，构建论文方面的开源生态。",
+  "session_name": "特色论坛: 多模态多语言大模型 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 9:00-11:00) </span>",
+  "session_chair": "论坛主席：吴震 (南京大学) &nbsp;&nbsp;&nbsp;&nbsp; 王晶晶 (苏州大学)",
+  "session_desc": "[Session 4 DESP]",
   "session_time": [
-    "19:00",
-    "20:00"
+    "9:00",
+    "11:00"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20221126T190000%0ADTEND;TZID=Asia/Shanghai:20221126T200000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202022%5D%20特色论坛:%20论文实践报告%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/581 论坛简介：近些年人工智能技术飞速发展，有越来越多科研人员开始在领域内检索、投稿、撰写与发表论文。为了帮助初入领域的科研人员更快地上手论文的各方面实践，MLNLP社区贡献了许多优质的开源项目。本次论文实践论坛特别邀请了来自MLNLP社区的三位热爱开源的研究员进行分享，他们将分别从论文写作、论文画图和论文检索等角度切入，构建论文方面的开源生态。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2022.com/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20221126T190000%2F20221126T200000&text=%5BMLNLP%202022%5D%20特色论坛:%20论文实践报告&details=注册链接：https://event.baai.ac.cn/event/581 论坛简介：近些年人工智能技术飞速发展，有越来越多科研人员开始在领域内检索、投稿、撰写与发表论文。为了帮助初入领域的科研人员更快地上手论文的各方面实践，MLNLP社区贡献了许多优质的开源项目。本次论文实践论坛特别邀请了来自MLNLP社区的三位热爱开源的研究员进行分享，他们将分别从论文写作、论文画图和论文检索等角度切入，构建论文方面的开源生态。&ctz=Asia%2FShanghai&location=http://www.mlnlp2022.com/",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2022-11-26T19:00:00&enddt=2022-11-26T20:00:00&subject=%5BMLNLP%202022%5D%20特色论坛:%20论文实践报告&body=注册链接：https://event.baai.ac.cn/event/581 论坛简介：近些年人工智能技术飞速发展，有越来越多科研人员开始在领域内检索、投稿、撰写与发表论文。为了帮助初入领域的科研人员更快地上手论文的各方面实践，MLNLP社区贡献了许多优质的开源项目。本次论文实践论坛特别邀请了来自MLNLP社区的三位热爱开源的研究员进行分享，他们将分别从论文写作、论文画图和论文检索等角度切入，构建论文方面的开源生态。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2022.com/",
-  "session_slido_url": "https://app.sli.do/event/aFNvmNaJVpYfNYLqEpTzGa",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T090000%0ADTEND;TZID=Asia/Shanghai:20230924T110000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型%0ADESCRIPTION:注册链接：[TBD] 论坛简介：[Session 4 DESP]%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2023.com/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T090000%2F20230924T110000&text=%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型&details=注册链接：[TBD] 论坛简介：[Session 4 DESP]&ctz=Asia%2FShanghai&location=http://www.mlnlp2023.com/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T09:00:00&enddt=2023-09-24T11:00:00&subject=%5BMLNLP%202023%5D%20Session%204:多模态多语言大模型&body=注册链接：[TBD]  论坛简介：[Session 4 DESP]&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2023.com/",
+	"session_slido_url": "https://app.sli.do/event/aFNvmNaJVpYfNYLqEpTzGa",
   "session_list": [
     {
       "time": [
-        "19:00",
-        "19:30"
+        "09:00",
+        "09:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/laiyuxuan.png",
-        "name": "来雨轩",
-        "desc": "国家开放大学讲师",
-        "url": "https://scholar.google.com.hk/citations?user=oKbXK7EAAAAJ&hl=zh-CN"
+        "img": "assets/img/speakers/feihao.jpg",
+        "name": "费豪",
+        "desc": "新加坡国立大学NExT++研究中心研究员/新加坡Sea AI lab联合研究员",
+        "url": "https://haofei.vip/"
       },
-      "type": "论文写作实践",
-      "title": "Paper-Writing-Tips：论文写作投稿必备技巧 <a href=\"https://github.com/MLNLP-World/Paper-Writing-Tips\" class=\"github\" target=\"_blank\" style=\"line-height: 1;margin-left: 10px;\"><i class=\"bi bi-github\"></i></a>",
-      "slides": "<a href=\"assets/slides/session_paper/laiyuxuan.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1PP411M7RP?p=1\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "很多初学者同学在投稿的时候经常会出现一些共有的小错误，为了节省大家的时间和帮助大家能够尽快的定位一些小的问题。本次报告将基于MLNLP社区的开源项目Paper-Writing-Tips，为各位观众展示论文写作过程中的一些常见问题与投稿经验。"
+      "type": "专题报告",
+      "title": "大语言模型赋能的文本到视觉扩散模型研究",
+      "slides": "",
+      "recoding": "",
+      "desc": "当前，随着大模型和大规模训练技术的成熟，人工智能内容生成（AIGC）主题取得阶跃式的进步。一方面，大语言模型（LLM，如ChatGPT、LLaMA、Vicuna）被广泛证明其具有（近似）人类水平的语言理解能力。另一方面，作为跨模态生成的核心主题，文本到视觉的合成（Text-to-Vision Synthesis），即生成符合输入文本描述的图像或视频内容，得到了社区的越来越多的关注。相应地，以扩散模型（Diffusion）为核心的技术，诸如Stable Diffusion、DELLE-2以及Midjourney等优秀模型，帮助在视觉生成方面取得了令人振奋的进展。已有工作已点明，对于文本到视觉生成，其核心在于充分弥合语言和视觉模态之间所存在的天然鸿沟和差异。尽管目前大语言模型和扩散模型分别得到了足够的研究，但“利用大语言模型协助文本到视觉的合成”这一议题目前并未得到足够的探索。本报告首先分析大语言模型协助基于扩散模型的文本到视觉的合成的可行性与关键，再分别详细介绍大语言模型赋能的文本到图像和文本到视频两个成功探索工作。"
     },
     {
       "time": [
-        "19:30",
-        "19:50"
+        "09:30",
+        "10:00"
       ],
       "speaker": {
-        "img": "assets/img/committee/libei.jpg",
-        "name": "李北",
-        "desc": "东北大学自然语言处理实验室博士生",
-        "url": "https://scholar.google.com/citations?user=wzbJ5EIAAAAJ&hl=en"
+        "img": "assets/img/speakers/yubowen.jpg",
+        "name": "郁博文",
+        "desc": "阿里巴巴达摩院算法专家",
+        "url": "https://yubowen-ph.github.io/"
       },
-      "type": "论文画图实践",
-      "title": "Paper-Picture-Writing-Code：零基础入门高质量论文绘图 <a href=\"https://github.com/MLNLP-World/Paper-Picture-Writing-Code\" class=\"github\" target=\"_blank\" style=\"line-height: 1;margin-left: 10px;\"><i class=\"bi bi-github\"></i></a>",
-      "slides": "<a href=\"assets/slides/session_paper/libei.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1PP411M7RP?p=2\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "对于很多科研新手来说论文图片的绘制常常成为论文写作中一大难题，图像失真、图示不合规范等问题会导致论文质量的降低，LaTex和Python绘制的矢量图具有不会出现失真、便于实时修改和维护等优点，为了帮助科研工作者提高论文写作画图的质量和效率、学会更好地利用代码画图，本次报告将基于MLNLP社区开源项目Paper-Picture-Writing-Code，带来全面的高质量论文绘图教程。"
+      "type": "专题报告",
+      "title": "大语言模型的人类偏好对齐训练和评估",
+      "slides": "",
+      "recoding": "",
+      "desc": "OpenAI推出的ChatGPT对话模型掀起了新的AI热潮，它面对多种多样的问题对答如流，似乎已经打破了机器和人的边界。然而，预训练语言模型产生的输出很大程度上与人类偏好并不一致。这主要是因为，大模型预训练时使用的的语料并不一定全是用户喜欢的内容。如果没有适当的对齐，语言模型可能输出和人类价值不符的误导性的、有害的或冒犯性内容。因此，通过收集人类反馈数据，进一步微调大模型，使模型与人类对齐，更加符合人类的偏好，是构建安全、可信、可控人工智能系统的必经之路。本次报告将会对强化学习、排序学习和条件生成这三类人类偏好对齐训练方法进行比较分析，并详细介绍如何高效且准确地评估模型是否成功实现与人类偏好的一致性。"
     },
     {
       "time": [
-        "19:50",
-        "20:00"
+        "10:00",
+        "10:30"
       ],
       "speaker": {
-        "img": "assets/img/speakers/liguodun.png",
-        "name": "李国趸",
-        "desc": "浙江大学计算机学院硕士生",
-        "url": "https://github.com/doragd"
+        "img": "assets/img/speakers/zhangwenxuan.jpg",
+        "name": "张雯轩",
+        "desc": "阿里巴巴达摩院算法专家",
+        "url": "https://isakzhang.github.io/"
       },
-      "type": "论文检索实践",
-      "title": "AI-Paper-Collector：高效检索和筛选顶会论文的工具 <a href=\"https://github.com/MLNLP-World/AI-Paper-Collector\" class=\"github\" target=\"_blank\" style=\"line-height: 1;margin-left: 10px;\"><i class=\"bi bi-github\"></i></a>",
-      "slides": "<a href=\"assets/slides/session_paper/liguodun.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1PP411M7RP?p=3\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "随着海量人工智能论文的涌现，学会快速精确地检索人工智能论文成为研究人员的必备技能。即便如此，现有的如谷歌学术、arxiv等在搜索学术文献上都存在一定局限性。本次报告将基于MLNLP社区开源项目AI-Paper-Collector，介绍新一代开源论文检索工具的最佳实践。"
+      "type": "专题报告",
+      "title": "M3Exam：多语言、多模态、多层级的大模型评测基准",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着大语言模型的发展，公平有效的评估他们的能力成为了一个越来越重要的研究问题。尽管已经出现了一些评估基准，但我们认为，人类考试是评估大模型通用智力的更合适的载体，因为它们需要更广泛的能力且更符合日常真实的应用场景。 在这次报告中，我们将介绍 M3Exam，源自多个国家真实且官方的真人考试问题，用于在多语言、多模式和多层次的背景下评估大模型。 M3Exam呈现出三个独特的特点：（1）多语言性，涵盖多个国家的问题，需要很强的多语言能力和对他们背后对应的文化知识的掌握； （2）多模态，考虑很多试题的多模态性质，测试模型的对复杂多模态问题的理解能力； （3）多层次结构，考虑三个关键教育时期的考试，综合评估模型在不同层次的熟练程度。我们会讨论不同模型的表现，以及它所揭示出现有模型存在的不足。"
+    },
+    {
+      "time": [
+        "10:30",
+        "11:00"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/wuchenfei.jpg",
+        "name": "吴晨飞",
+        "desc": "微软亚洲研究院高级研究员",
+        "url": "https://chenfei-wu.github.io/"
+      },
+      "type": "专题报告",
+      "title": "DragNUWA: 细粒度可控的视频生成",
+      "slides": "",
+      "recoding": "",
+      "desc": "随着AIGC的领域的快速发展，视频生成正日益成为关注焦点。已有的生成模型例如NUWA，Phenaki, Gen-2已经可以做到基于文本控制的视频生成。遗憾的是，现有的大部分模型在生成视频方面缺乏细粒度的控制能力，这无疑限制了它们的实用性和应用范围。例如，在电影拍摄和短视频制作过程中，常常需要复杂的运镜、人物的精细动作、甚至它们的复杂组合，而这些仅仅依靠文本是显然不够的。为了突破这一局限，微软亚洲研究院提出DragNUWA视频生成模型，凭借文本、图像和轨迹三个关键控制因素，从语义、空间和时间三个层面实现了强大的可控视频生成。相比于已有工作，DragNUWA的独特之处在于，允许用户直接在图像中拖拽物体或者背景，模型会自动将拖拽操作转化为运镜或者物体的运动，并生成视频。"
     }
   ]
 }

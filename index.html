@@ -86,65 +86,65 @@
 						</div>`)
                     html_str = ""
                     for (var i = 0; i < data.session_list.length; i++) {
-                        if (index == 3 && i == 0) {
-                            html_str += `
-								<div class="row schedule-item">
-									<div class="col-2">
-										<div class="row calender-container">
-											<time>` + data.session_list[i].time[0] + `</time>
-											<time class="end-time">` + data.session_list[i].time[1] + `</time>
-										</div>
-									</div>
-									<div class="col-10">
-									    <div class="label-box">
-									        <div class="label">` + data.session_list[i].type + `</div>
-									    </div>
+                        // if (index == 3 && i == 0) {
+                        //     html_str += `
+						// 		<div class="row schedule-item">
+						// 			<div class="col-2">
+						// 				<div class="row calender-container">
+						// 					<time>` + data.session_list[i].time[0] + `</time>
+						// 					<time class="end-time">` + data.session_list[i].time[1] + `</time>
+						// 				</div>
+						// 			</div>
+						// 			<div class="col-10">
+						// 			    <div class="label-box">
+						// 			        <div class="label">` + data.session_list[i].type + `</div>
+						// 			    </div>
 
-									    <div class="speaker-box">
-									    	<a class="speaker"  href="http://nlp.nju.edu.cn/huangsj/">
-                                                <img src="assets/img/speakers/huangshujian.png" alt="黄书剑">
-                                            </a>
-                                            <a class="speaker second-speaker"  href="https://owennju.github.io/">
-                                                <img src="assets/img/speakers/zhuwenhao.png" alt="朱文昊">
-                                            </a>
-									    </div>
-										<div class="speaker-title-display">
-                                            <a href="http://nlp.nju.edu.cn/huangsj/" target="_blank">
-												<h4 class="first-title">黄书剑 <span class="span-block">南京大学计算机科学与技术系副教授</span> </h4>
-											</a>
-											<a href="https://owennju.github.io/" target="_blank">
-												<h4>朱文昊 <span class="span-block">南京大学计算机科学与技术系博士生</span> </h4>
-											</a>
-                                        </div>
-										<p class="item-title"><strong>` + data.session_list[i].title + `</strong>&nbsp;&nbsp;` + data.session_list[i].slides + `&nbsp;&nbsp;` + data.session_list[i].recoding + `</p>
-										<p class="item-body">` + data.session_list[i].desc + `
-										</p>
-									</div>
-								</div>`
-                        } else {
-                            html_str += `
-								<div class="row schedule-item">
-									<div class="col-2">
-										<div class="row calender-container">
-											<time>` + data.session_list[i].time[0] + `</time>
-											<time class="end-time">` + data.session_list[i].time[1] + `</time>
-										</div>
-									</div>
-									<div class="col-10">
-										<a class="speaker" href="` + data.session_list[i].speaker.url + `" target="_blank">
-											<img loading="lazy" src="` + data.session_list[i].speaker.img + `" alt="` + data.session_list[i].speaker.name + `">
-										</a>
-										<div class="label-box">
-											<div class="label">` + data.session_list[i].type + `</div>
-										</div>
-										<a href="` + data.session_list[i].speaker.url + `" target="_blank">
-										<h4>` + data.session_list[i].speaker.name + ` <span class="span-block">` + data.session_list[i].speaker.desc + `</span> </h4></a>
-										<p class="item-title"><strong>` + data.session_list[i].title + `</strong>&nbsp;&nbsp;` + data.session_list[i].slides + `&nbsp;&nbsp;` + data.session_list[i].recoding + `</p>
-										<p class="item-body">` + data.session_list[i].desc + `
-										</p>
-									</div>
-								</div>`
-                        }
+						// 			    <div class="speaker-box">
+						// 			    	<a class="speaker"  href="http://nlp.nju.edu.cn/huangsj/">
+                        //                         <img src="assets/img/speakers/huangshujian.png" alt="黄书剑">
+                        //                     </a>
+                        //                     <a class="speaker second-speaker"  href="https://owennju.github.io/">
+                        //                         <img src="assets/img/speakers/zhuwenhao.png" alt="朱文昊">
+                        //                     </a>
+						// 			    </div>
+						// 				<div class="speaker-title-display">
+                        //                     <a href="http://nlp.nju.edu.cn/huangsj/" target="_blank">
+						// 						<h4 class="first-title">黄书剑 <span class="span-block">南京大学计算机科学与技术系副教授</span> </h4>
+						// 					</a>
+						// 					<a href="https://owennju.github.io/" target="_blank">
+						// 						<h4>朱文昊 <span class="span-block">南京大学计算机科学与技术系博士生</span> </h4>
+						// 					</a>
+                        //                 </div>
+						// 				<p class="item-title"><strong>` + data.session_list[i].title + `</strong>&nbsp;&nbsp;` + data.session_list[i].slides + `&nbsp;&nbsp;` + data.session_list[i].recoding + `</p>
+						// 				<p class="item-body">` + data.session_list[i].desc + `
+						// 				</p>
+						// 			</div>
+						// 		</div>`
+                        // } else {
+                        html_str += `
+                            <div class="row schedule-item">
+                                <div class="col-2">
+                                    <div class="row calender-container">
+                                        <time>` + data.session_list[i].time[0] + `</time>
+                                        <time class="end-time">` + data.session_list[i].time[1] + `</time>
+                                    </div>
+                                </div>
+                                <div class="col-10">
+                                    <a class="speaker" href="` + data.session_list[i].speaker.url + `" target="_blank">
+                                        <img loading="lazy" src="` + data.session_list[i].speaker.img + `" alt="` + data.session_list[i].speaker.name + `">
+                                    </a>
+                                    <div class="label-box">
+                                        <div class="label">` + data.session_list[i].type + `</div>
+                                    </div>
+                                    <a href="` + data.session_list[i].speaker.url + `" target="_blank">
+                                    <h4>` + data.session_list[i].speaker.name + ` <span class="span-block">` + data.session_list[i].speaker.desc + `</span> </h4></a>
+                                    <p class="item-title"><strong>` + data.session_list[i].title + `</strong>&nbsp;&nbsp;` + data.session_list[i].slides + `&nbsp;&nbsp;` + data.session_list[i].recoding + `</p>
+                                    <p class="item-body">` + data.session_list[i].desc + `
+                                    </p>
+                                </div>
+                            </div>`
+                        // }
 
                     }
                     $("#session-" + index.toString()).append(html_str)
@@ -337,22 +337,22 @@
                 <h2 class="agenda-title">专题论坛</h2>
                 <ul class="nav nav-tabs tab-head" role="tablist" data-aos="fade-up" data-aos-delay="100">
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link active" href="#session-1" role="tab" data-bs-toggle="tab">大模型构建与微调</a>
+                        <a class="nav-link active" href="#session-1" role="tab" data-bs-toggle="tab">大模型<br>构建与微调</a>
                     </li>
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link" href="#session-2" role="tab" data-bs-toggle="tab">大模型与推荐系统</a>
+                        <a class="nav-link" href="#session-2" role="tab" data-bs-toggle="tab">大模型<br>与推荐系统</a>
                     </li>
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link" href="#session-3" role="tab" data-bs-toggle="tab">大模型与推荐系统</a>
+                        <a class="nav-link" href="#session-3" role="tab" data-bs-toggle="tab">大模型<br>评估与安全</a>
                     </li>
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link" href="#session-4" role="tab" data-bs-toggle="tab">多模态多语言大模型</a>
+                        <a class="nav-link" href="#session-4" role="tab" data-bs-toggle="tab">多模态<br>多语言大模型</a>
                     </li>
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link" href="#session-5" role="tab" data-bs-toggle="tab">大模型与知识图谱</a>
+                        <a class="nav-link" href="#session-5" role="tab" data-bs-toggle="tab">大模型<br>与知识图谱</a>
                     </li>
                     <li class="nav-item tab-head-item">
-                        <a class="nav-link" href="#session-6" role="tab" data-bs-toggle="tab">大模型技术与应用</a>
+                        <a class="nav-link" href="#session-6" role="tab" data-bs-toggle="tab">大模型<br>技术与应用</a>
                     </li>
                 </ul>
 

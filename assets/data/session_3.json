@@ -1,32 +1,49 @@
 {
-  "session_name": "Session 3: 机器翻译论坛 <span style=\"white-space: pre;word-break: break-word;\"> (11月26日 15:50-18:20) </span>",
-  "session_chair": "论坛主席：李北 (东北大学自然语言处理实验室博士生) &nbsp;&nbsp;&nbsp;&nbsp; 矣晓沅 (微软亚洲研究院研究员)",
-  "session_desc": "机器翻译作为自然语言处理领域（NLP）中的传统任务一直备受关注。翻译从广义上将是将一种事物转化到另外一种事物的过程，其中利用机器来完成语言之间的互译是大家对机器翻译的普遍认知。Transformer模型最早是作为机器翻译任务的新结构范式被提出，之后被广泛应用到文本摘要等NLP的各个任务，并在近期成功地应用于计算机视觉领域。除却模型范式的优化改进，机器翻译任务上还有很多难题亟待解决，例如如何利用知识库来辅助机器翻译；如何解决自回归范式的推断速度难以满足工业生产环境时延；如何有效地利用人为干预来满足不同场景下的翻译需求，以及从何从表示学习的角度进一步提高模型的翻译品质。本次机器翻译论坛特别邀请了来自国内的四位优秀学者进行分享，他们分别从机器翻译的新范式、非自回归翻译、可控式翻译和翻译的一致性角度切入，呈现出机器翻译领域最新的研究进展。",
+  "session_name": "Session 3: 大模型评估与安全 <span style=\"white-space: pre;word-break: break-word;\"> (09月23日 15:50-17:50) </span>",
+  "session_chair": "论坛主席：吴雨婷 (北京交通大学)  &nbsp;&nbsp;&nbsp;&nbsp; 曹鹏飞 (中国科学院自动化研究所)",
+  "session_desc": "[Session 3 DESP]",
   "session_time": [
     "15:50",
     "18:20"
   ],
-  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20221126T155000%0ADTEND;TZID=Asia/Shanghai:20221126T182000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202022%5D%20Session%203:机器翻译论坛%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/581 论坛简介：机器翻译作为自然语言处理领域（NLP）中的传统任务一直备受关注。翻译从广义上将是将一种事物转化到另外一种事物的过程，其中利用机器来完成语言之间的互译是大家对机器翻译的普遍认知。Transformer模型最早是作为机器翻译任务的新结构范式被提出，之后被广泛应用到文本摘要等NLP的各个任务，并在近期成功地应用于计算机视觉领域。除却模型范式的优化改进，机器翻译任务上还有很多难题亟待解决，例如如何利用知识库来辅助机器翻译；如何解决自回归范式的推断速度难以满足工业生产环境时延；如何有效地利用人为干预来满足不同场景下的翻译需求，以及从何从表示学习的角度进一步提高模型的翻译品质。本次机器翻译论坛特别邀请了来自国内的四位优秀学者进行分享，他们分别从机器翻译的新范式、非自回归翻译、可控式翻译和翻译的一致性角度切入，呈现出机器翻译领域最新的研究进展。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20221126T155000%2F20221126T182000&text=%5BMLNLP%202022%5D%20Session%203:机器翻译论坛&details=注册链接：https://event.baai.ac.cn/event/581 论坛简介：机器翻译作为自然语言处理领域（NLP）中的传统任务一直备受关注。翻译从广义上将是将一种事物转化到另外一种事物的过程，其中利用机器来完成语言之间的互译是大家对机器翻译的普遍认知。Transformer模型最早是作为机器翻译任务的新结构范式被提出，之后被广泛应用到文本摘要等NLP的各个任务，并在近期成功地应用于计算机视觉领域。除却模型范式的优化改进，机器翻译任务上还有很多难题亟待解决，例如如何利用知识库来辅助机器翻译；如何解决自回归范式的推断速度难以满足工业生产环境时延；如何有效地利用人为干预来满足不同场景下的翻译需求，以及从何从表示学习的角度进一步提高模型的翻译品质。本次机器翻译论坛特别邀请了来自国内的四位优秀学者进行分享，他们分别从机器翻译的新范式、非自回归翻译、可控式翻译和翻译的一致性角度切入，呈现出机器翻译领域最新的研究进展。&ctz=Asia%2FShanghai",
-  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2022-11-26T15:50:00&enddt=2022-11-26T18:20:00&subject=%5BMLNLP%202022%5D%20Session%203:机器翻译论坛&body=注册链接：https://event.baai.ac.cn/event/581 论坛简介：机器翻译作为自然语言处理领域中的传统任务一直备受关注。翻译从广义上将是将一种事物转化到另外一种事物的过程，其中利用机器来完成语言之间的互译是大家对机器翻译的普遍认知。Transformer模型最早是作为机器翻译任务的新结构范式被提出，之后被广泛应用到文本摘要等NLP的各个任务，并在近期成功地应用于计算机视觉领域。除却模型范式的优化改进，机器翻译任务上还有很多难题亟待解决。本次机器翻译论坛特别邀请了来自国内的四位优秀学者进行分享，他们分别从机器翻译的新范式、非自回归翻译、可控式翻译和翻译的一致性角度切入，呈现出机器翻译领域最新的研究进展。&allday=false&path=%2Fcalendar%2Fview%2FMonth",
-  "session_slido_url": "https://app.sli.do/event/hTLL2hSQ39CXBmaBKxp6HN",
+  "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:202230923T155000%0ADTEND;TZID=Asia/Shanghai:20230923T175000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202022%5D%20Session%203:大模型评估与安全%0ADESCRIPTION:注册链接：[TBD] 论坛简介：[Session 3 DESP]%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2023.com/%0AEND:VEVENT%0AEND:VCALENDAR",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T155000%2F20230923T175000&text=%5BMLNLP%202023%5D%20Session%203:大模型评估与安全&details=注册链接：[TBD] 论坛简介：[Session 3 DESP]&ctz=Asia%2FShanghai&location=http://www.mlnlp2023.com/",
+  "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T15:50:00&enddt=2023-09-23T17:50:00&subject=%5BMLNLP%202023%5D%20Session%203:大模型评估与安全&body=注册链接：[TBD] 论坛简介：[Session 3 DESP]&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2023.com/",
+  "session_slido_url": "",
   "session_list": [
     {
       "time": [
         "15:50",
+        "16:20"
+      ],
+      "speaker": {
+        "img": "assets/img/speakers/guitao.jpg",
+        "name": "桂韬",
+        "desc": "复旦大学自然语言处理实验室副研究员",
+        "url": "https://guitaowufeng.github.io/"
+      },
+      "type": "专题报告",
+      "title": "交叉关联图神经网络的理论研究及其应用",
+      "slides": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
+      "recoding": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
+      "desc": "Transformer 的大模型进化而来。而且，这种趋势正在向图像、语音、蛋白质序列预测、强化学习等多个领域蔓延。整个 AI 社区似乎出现了一种大一统的趋势。这种同质化也带来了一些隐患，因为基础模型的安全性、公平性、隐私性缺陷也会被所有下游模型所继承。本报告将介绍大模型的安全伦理风险以及带来的社会影响，探讨通过人类反馈的强化学习算法实现价值观对齐-MOSS RLHF，以及缓解安全伦理问题的可行方案。"
+    },
+    {
+      "time": [
+        "16:20",
         "16:50"
       ],
       "speaker": {
-        "img1": "assets/img/speakers/huangshujianzhuwenhao.png",
-        "img2": "assets/img/speakers/huangshujianzhuwenhao.png",
-        "name": "黄书剑 朱文昊",
-        "desc": "南京大学计算机科学与技术系副教授；南京大学计算机科学与技术系博士生"
+        "img": "assets/img/speakers/zhongwanjun.png",
+        "name": "钟宛君",
+        "desc": "华为诺亚方舟实验室研究员",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=FGIZfyQAAAAJ"
       },
-      "type": "特邀报告",
-      "title": "K近邻机器翻译",
-      "slides": "<a href=\"assets/slides/session_3/huangshujian_zhuwenhao.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1UM411z7DE?p=1\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "如何记忆和利用翻译知识是机器翻译研究中的一个本质问题。在深度学习时代，翻译知识已经不再被显式地以符号化的方式保存，而是被隐式地包含在神经网络的参数中。但是，即使是大规模神经网络也很难记住训练数据中的全部知识，特别是低频知识。K近邻机器翻译（KNN-MT）是一种基于检索的机器翻译框架，为解决以上问题提供了新角度。KNN-MT通过引入一个额外的翻译知识库辅助神经机器翻译模型，在建模低频现象，快速自适应等方面展示出了极大的潜力。本次报告将介绍KNN-MT的基本架构以及最新研究进展，包括如何在不同场景下有效利用符号知识，如何提升翻译系统整体解码速度，以及对神经符号翻译系统的可解释性探索。"
+      "type": "专题报告",
+      "title": "大模型评估：从文本任务导向到真实人类任务导向",
+      "slides": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
+      "recoding": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
+      "desc": "随着大语言模型能力的快速增强，如何准确评估这些模型在处理真实人类任务上的表现已经成为通用人工智能（AGI）领域的焦点问题。尽管面向传统自然语言任务的评测方法可衡量机器在特定能力上的表现，但这往往难以全面反映模型是否能达到人类的知识和推理水平，进而帮助解决复杂任务。本讲座将重点探讨大模型在实际人类任务中的评测方法，分享最新的研究成果，并介绍我们新提出的评测基准AGIEval。AGIEval 旨在评估大模型在人类认知和问题解决方面的通用能力，并结合了多种高标准的人类考试作为评测标准。"
     },
     {
       "time": [
@@ -34,16 +51,16 @@
         "17:20"
       ],
       "speaker": {
-        "img": "assets/img/speakers/zhouhao.png",
-        "name": "周浩",
-        "desc": "清华大学智能产业研究院副研究员",
-        "url": "http://zhouh.github.io/"
+        "img": "assets/img/speakers/wangjindong.png",
+        "name": "王晋东",
+        "desc": "微软亚洲研究院主管研究员",
+        "url": "https://jd92.wang/"
       },
       "type": "专题报告",
-      "title": "基于无向环Transformer的非自回归机器翻译",
-      "slides": "<a href=\"assets/slides/session_3/zhouhao.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1UM411z7DE?p=2\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "非自回归Transformer（NATs）模型可以一次性并行地生成所有目标序列，大大降低了解码延迟。然而，这种独立的预测使NAT无法捕捉到序列中不同位置之间的依赖关系，进而导致比较严重的“多峰”问题。在本文中，我们提出了基于有向无环图的Transformer模型（DA-Transformer），它通过构建有向无环图（DAG）来表示目标序列不同位置的隐藏状态，其中DAG的每个路径对应于一种翻译候选。整个DAG可以同时捕捉多种翻译，并以非自回归的方式促进快速预测。在WMT基准的原始训练数据上的实验表明，DA-Transformer的性能大大超过了以前的NAT范式，取得了近3个 BLEU值的提升，这是第一个在不依赖知识蒸馏的情况下取得与自回归范式Transformer相比，具备竞争力结果的NAT模型。"
+      "title": "大模型时代的理论、评测与模型增强",
+      "slides": "",
+      "recoding": "",
+      "desc": "大型模型的日益普及丰富了我们的日常生活，但其稳健性仍然是一个紧迫且未触及的领域。为了让大型模型能够更好地适用于各种条件下，我们应该关注其限制和能力不足，即改善其稳健性。在本次演讲中，我们将从稳健性的角度介绍我们的一些工作，使机器学习模型在意外情况下更加稳健。具体而言，我们关注了三种情况：大模型Transformer架构的基础理论、更好的模型评测、以及大模型的增强。"
     },
     {
       "time": [
@@ -51,33 +68,16 @@
         "17:50"
       ],
       "speaker": {
-        "img": "assets/img/speakers/wangshuo.png",
-        "name": "王硕",
-        "desc": "清华大学计算机系博士生",
-        "url": "https://shuowang.cool/"
+        "img": "assets/img/speakers/hejunxian.jpg",
+        "name": "何俊贤",
+        "desc": "香港科技大学计算机系助理教授",
+        "url": "https://jxhe.github.io/"
       },
       "type": "专题报告",
-      "title": "支持词汇约束的神经机器翻译",
+      "title": "大模型的事实正确性 -- 检测与评估",
       "slides": "",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1UM411z7DE?p=3\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "神经机器翻译（NMT）近年来取得了快速的发展。但是在一些容错率较低的翻译任务中，如药品说明书的翻译，重要会议交流的翻译等，NMT模型因其不可控性仍然难以广泛应用。针对此问题，很多研究者提出发展支持词汇约束的NMT技术。但是，由于NMT模型端到端的特性，我们很难直接将人类预先定义的词汇翻译规则加入到NMT模型的翻译过程中。为此，我们分别从模型层面和训练算法层面出发，针对NMT模型的特点提出了引入词汇约束的方法。实验证明，我们的方法可以从不同角度让NMT模型更好地处理词汇约束，帮助NMT模型在更多场景中发挥作用。"
-    },
-    {
-      "time": [
-        "17:50",
-        "18:20"
-      ],
-      "speaker": {
-        "img": "assets/img/speakers/liuxuebo.png",
-        "name": "刘学博",
-        "desc": "哈尔滨工业大学（深圳）助理教授",
-        "url": "https://sunbowliu.github.io/"
-      },
-      "type": "专题报告",
-      "title": "神经机器翻译的一致性表示学习",
-      "slides": "<a href=\"assets/slides/session_3/liuxuebo.pdf\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"https://www.bilibili.com/video/BV1UM411z7DE?p=4\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-      "desc": "如何从有限的标注数据中高效学习有用特征是深度学习的核心问题，以R-Drop为代表的一致性学习方法为该问题的解决提供了新的思路，显著推动了近期机器翻译领域的发展。在本次报告中，我们将首先介绍一致性学习方法的背景与其在机器翻译中的应用情况，然后将结合机器翻译任务中模型与数据的特性，详细介绍我们近期发表在EMNLP2022上的两项工作：1）面向低资源机器翻译的跨模型一致性表示学习；2）面向中文机器翻译的样本改造一致性表示学习。最后，我们将进一步探索一致性表示学习在机器翻译中的潜在研究应用点，如多模态机器翻译等。"
+      "recoding": "",
+      "desc": "随着大模型在现实中被越来越广泛的使用，其幻觉现象和由此引发的事实正确性问题成为了人们对大模型投入到实际生产中的最大担忧之一。幻觉现象使得大模型的安全性受到质疑，且在一些场景中会引发较大的风险。本报告将介绍我们在大模型的事实正确性方面的一些最新探索和思考，具体我们将阐述大模型的事实正确性检测方法以及大模型的自我校验能力，然后我们将探讨对事实检测工具的评估方法。"
     }
   ]
 }
