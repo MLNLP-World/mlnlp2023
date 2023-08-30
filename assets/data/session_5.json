@@ -1,13 +1,13 @@
 {
   "session_name": "Session 5: 大模型与知识图谱 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 13:30-15:30) </span>",
   "session_chair": "论坛主席：张宁豫 (浙江大学 副教授) &nbsp;&nbsp;&nbsp;&nbsp; 吴天星 (东南大学 讲师)",
-  "session_desc": "",
+  "session_desc": "[Session 5 DESP]",
   "session_time": [
     "13:30",
     "15:30"
   ],
   "apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230924T133000%0ADTEND;TZID=Asia/Shanghai:20230924T153000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱%0ADESCRIPTION:注册链接：[TBD] 论坛简介：[Session 5 DESP] %0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2023.com/%0AEND:VEVENT%0AEND:VCALENDAR",
-  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T133000%2F200924T153000&text=%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱&details=注册链接：[TBD] 论坛简介：[Session 5 DESP]&ctz=Asia%2FShanghai&location=http://www.mlnlp2023.com/",
+  "google": "https://calendar.google.com/calendar/r/eventedit?dates=20230924T133000%2F20230924T153000&text=%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱&details=注册链接：[TBD] 论坛简介：[Session 5 DESP]&ctz=Asia%2FShanghai&location=http://www.mlnlp2023.com/",
   "outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-24T13:30:00&enddt=2023-09-24T15:30:00&subject=%5BMLNLP%202023%5D%20Session%205%20大模型与知识图谱&body=注册链接：[TBD] 论坛简介：[Session 5 DESP]&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2023.com/",
   "session_slido_url": "https://app.sli.do/event/",
   "session_list": [
@@ -51,13 +51,13 @@
         "15:00"
       ],
       "speaker": {
-        "img": "assets/img/speakers/zhaoshendong.png",
+        "img": "assets/img/speakers/zhaosendong.png",
         "name": "赵森栋",
         "desc": "哈尔滨工业大学副教授，博士生导师",
         "url": ""
       },
       "type": "专题报告",
-      "title": "面向智慧医疗的大语言模型微调技术\n",
+      "title": "面向智慧医疗的大语言模型微调技术",
       "slides": "",
       "recoding": "",
       "desc": "大语言模型，如GPT系列模型，在各种自然语言处理任务中表现卓越。为了使这些模型更适应特定应用场景，研究人员通常采用一种被称为“微调”的技术。微调是在大规模数据集上预训练模型然后在特定任务的小型数据集上进行精细化训练的技术。尤其是在医疗行业的大模型应用面临特殊的挑战。本报告将深入探讨大语言模型的“微调”技术，包括指令微调、提示微调、低秩适配微调、知识微调等技术。本报告将介绍这些微调方法的基本原理，以及我们在医疗领域大模型上的实践。"
@@ -71,10 +71,10 @@
         "img": "assets/img/speakers/hulinmei.png",
         "name": "胡琳梅",
         "desc": "北京理工大学副教授，特别研究员",
-        "url": ""
+        "url": "https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm"
       },
       "type": "专题报告",
-      "title": "知识增强大语言模型\n",
+      "title": "知识增强大语言模型",
       "slides": "",
       "recoding": "",
       "desc": "近来，以ChatGPT为代表的生成式大语言模型在各类自然语言处理任务上均有优异表现，这得益于大模型具备的巨大参数量蕴含的丰富知识。然而，模型在记忆和理解信息上仍存在局限性，例如模型输出内容存在事实性错误、幻觉问题，模型面对同一问题的回答存在不确定性，模型训练过程可控性差等。利用外部知识增强大语言模型是缓解这些问题的有效手段，通过在大语言模型训练过程中融入外部知识有助于提升模型训练可控性，缓解模型幻觉问题。本报告将重点介绍知识增强大语言模型的最新研究进展，包括参数高效的知识增强大模型推理、基于人格的知识增强的对话生成等。"
