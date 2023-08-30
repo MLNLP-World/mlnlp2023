@@ -1,100 +1,83 @@
 {
-	"session_name": "Session 1: 高效 AI 论坛 <span style=\"white-space: pre;word-break: break-word;\"> (11月26日 09:00-11:30) </span>",
-	"session_chair": "论坛主席：胥栋宽 (北卡罗来纳州立大学计算机系助理教授) &nbsp;&nbsp;&nbsp;&nbsp; 王亚庆 (谷歌研究院研究科学家)",
-	"session_desc": "使用自监督学习在大量数据上预训练通用模型，然后在具体任务上对模型进行微调，已经成为解决许多任务的一般范式。最近的许多研究发现，随着预训练模型的参数数量的增加，模型的性能和从少量样本中学习的能力也在增加，但是当通用模型的参数从几百万增加到几百亿时，建立和使用这些模型就变得昂贵和具有挑战性。这些挑战通常分布在参数效率和数据效率之间，前者是指大型模型的训练成本很高，难以部署在内存和计算能力有限的设备上；后者是指大型模型在用于不同的任务时，往往在一个小的标记数据集上过度拟合，导致性能不理想。本次高效人工智能论坛邀请了五位来自国外的优秀学者进行分享，他们将带来高效人工智能领域的最新研究进展。",
+	"session_name": "Session 1: 大模型构建与微调 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 09:00-11:05) </span>",
+	"session_chair": "论坛主席：刘乾 (Sea AI Lab) &nbsp;&nbsp;&nbsp;&nbsp; 王亚庆 (Google Research)",
+	"session_desc": "[Session 1 DESP]",
 	"session_time": [
 		"09:00",
-		"11:30"
+		"11:05"
 	],
-	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20221126T090000%0ADTEND;TZID=Asia/Shanghai:20221126T113000%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202022%5D%20Session%201:%20高效%20AI%20论坛%0ADESCRIPTION:注册链接：https://event.baai.ac.cn/event/581 论坛简介：使用自监督学习在大量数据上预训练通用模型，然后在具体任务上对模型进行微调，已经成为解决许多任务的一般范式。最近的许多研究发现，随着预训练模型的参数数量的增加，模型的性能和从少量样本中学习的能力也在增加，但是当通用模型的参数从几百万增加到几百亿时，建立和使用这些模型就变得昂贵和具有挑战性。这些挑战通常分布在参数效率和数据效率之间，前者是指大型模型的训练成本很高，难以部署在内存和计算能力有限的设备上；后者是指大型模型在用于不同的任务时，往往在一个小的标记数据集上过度拟合，导致性能不理想。本次高效人工智能论坛邀请了五位来自国外的优秀学者进行分享，他们将带来高效人工智能领域的最新研究进展。%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2022.com/%0AEND:VEVENT%0AEND:VCALENDAR",
-	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20221126T090000%2F20221126T113000&text=%5BMLNLP%202022%5D%20Session%201:%20高效%20AI%20论坛&details=注册链接：https://event.baai.ac.cn/event/581 论坛简介：使用自监督学习在大量数据上预训练通用模型，然后在具体任务上对模型进行微调，已经成为解决许多任务的一般范式。最近的许多研究发现，随着预训练模型的参数数量的增加，模型的性能和从少量样本中学习的能力也在增加，但是当通用模型的参数从几百万增加到几百亿时，建立和使用这些模型就变得昂贵和具有挑战性。这些挑战通常分布在参数效率和数据效率之间，前者是指大型模型的训练成本很高，难以部署在内存和计算能力有限的设备上；后者是指大型模型在用于不同的任务时，往往在一个小的标记数据集上过度拟合，导致性能不理想。本次高效人工智能论坛邀请了五位来自国外的优秀学者进行分享，他们将带来高效人工智能领域的最新研究进展。&ctz=Asia%2FShanghai&location=http://www.mlnlp2022.com/",
-	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2022-11-26T09:00:00&enddt=2022-11-26T11:30:00&subject=%5BMLNLP%202022%5D%20Session%201:%20高效%20AI%20论坛&body=注册链接：https://event.baai.ac.cn/event/581 论坛简介：使用自监督学习在大量数据上预训练通用模型，然后在具体任务上对模型进行微调，已经成为解决许多任务的一般范式。最近的许多研究发现，随着预训练模型的参数数量的增加，模型的性能和从少量样本中学习的能力也在增加，但是当通用模型的参数从几百万增加到几百亿时，建立和使用这些模型就变得昂贵和具有挑战性。这些挑战通常分布在参数效率和数据效率之间，前者是指大型模型的训练成本很高，难以部署在内存和计算能力有限的设备上；后者是指大型模型在用于不同的任务时，往往在一个小的标记数据集上过度拟合，导致性能不理想。本次高效人工智能论坛邀请了五位来自国外的优秀学者进行分享，他们将带来高效人工智能领域的最新研究进展。&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2022.com/",
-	"session_slido_url": "https://app.sli.do/event/cGEivPKGU66vGgViMsdw1L",
+	"apple": "data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0ABEGIN:VTIMEZONE%0ATZID:Asia/Shanghai%0AX-LIC-LOCATION:Asia/Shanghai%0ABEGIN:STANDARD%0ATZOFFSETFROM:+0800%0ATZOFFSETTO:+0800%0ATZNAME:CST%0ADTSTART:19700101T000000%0AEND:STANDARD%0AEND:VTIMEZONE%0ABEGIN:VEVENT%0AURL:%0ADTSTART;TZID=Asia/Shanghai:20230923T090000%0ADTEND;TZID=Asia/Shanghai:20230923T110500%0ATZID:Asia/Shanghai%0ASUMMARY:%5BMLNLP%202023%5D%20Session%201:大模型构建与微调%0ADESCRIPTION:注册链接：[TBD] 论坛简介：[Session 1 DESP]%0ALOCATION:%0ABEGIN:VALARM%0ATRIGGER:-PT10M%0AACTION:DISPLAY%0ADESCRIPTION:Reminder%0AEND:VALARM%0ALOCATION:http://www.mlnlp2023.com/%0AEND:VEVENT%0AEND:VCALENDAR",
+	"google": "https://calendar.google.com/calendar/r/eventedit?dates=20230923T090000%2F20230923T110500&text=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&details=注册链接：[TBD] 论坛简介：[Session 1 DESP]&ctz=Asia%2FShanghai&location=http://www.mlnlp2023.com/",
+	"outlook": "https://outlook.live.com/owa?rru=addevent&startdt=2023-09-23T09:00:00&enddt=2023-09-23T11:05:00&subject=%5BMLNLP%202023%5D%20Session%201:大模型构建与微调&body=注册链接：[TBD]  论坛简介：[Session 1 DESP]&allday=false&path=%2Fcalendar%2Fview%2FMonth&location=http://www.mlnlp2023.com/",
+	"session_slido_url": "",
 	"session_list": [
 		{
 			"time": [
-				"09:00",
-				"09:30"
+				"09:05",
+				"09:35"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/yaohuaxiu.png",
-				"name": "姚骅修",
-				"desc": "斯坦福大学计算机科学博士后学者",
-				"url": "https://huaxiuyao.mystrikingly.com/"
+				"img": "assets/img/speakers/liupengfei.png",
+				"name": "刘鹏飞",
+				"desc": "上海交通大学清源研究院长聘教轨副教授",
+				"url": "http://pfliu.com/"
 			},
-			"type": "专题报告",
-			"title": "使用可操作性机器学习解决分布转移问题",
+			"type": "讲者专题报告",
+			"title": "生成式人工智能下的自然语言处理研究",
 			"slides": "",
-			"recoding": "<a href=\"https://www.bilibili.com/video/BV1s8411j71f?p=1\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-			"desc": "当在实际应用中部署机器学习算法，我们必须注意分布转移的问题。当测试分布与训练分布不同时，模型性能常被观察到大幅下降。为了解决分布变化，在本次演讲中，我将介绍两种带有一些实例的范例。具体来说，我将首先讨论如何构建对两种分布变化（包括亚群转移和域转移）具有鲁棒性的机器学习模型。然后我将讨论如何使用最少的标记数据有效地使训练模型适应测试分布。还将讨论这个方向的其他挑战和值得研究的未来研究方向。"
+			"recoding": "",
+			"desc": "本报告将讨论在生成式人工智能时代，自然语言处理学者该如何更好的进行学术研究。"
 		},
 		{
 			"time": [
-				"09:30",
-				"10:00"
+				"09:35",
+				"10:05"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/zhoupeipei.png",
-				"name": "周佩佩",
-				"desc": "匹兹堡大学助理教授",
-				"url": "https://peipeizhou-eecs.github.io/"
+				"img": "assets/img/speakers/caideng.png",
+				"name": "蔡登",
+				"desc": "腾讯AI Lab高级研究员",
+				"url": "https://jcyk.github.io/"
 			},
-			"type": "专题报告",
-			"title": "深度学习加速器芯片的自动调优",
+			"type": "讲者专题报告",
+			"title": "大模型对齐技术",
 			"slides": "",
-			"recoding": "<a href=\"https://www.bilibili.com/video/BV1s8411j71f?p=2\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-			"desc": "在本次演讲中，我们将从硬件架构，软件栈和自动性能调优三个角度介绍深度学习加速器芯片的设计自动化。"
+			"recoding": "",
+			"desc": "大模型在预训练时能潜在地从海量文本中获得强大的知识、理解、推理能力。为了充分释放这些能力并使模型的行为符合人类期望，对齐（aligment）技术成为了一个研究热点。本报告将介绍大模型对齐技术，包括其主要挑战、代表性工作以及未来发展方向。"
 		},
 		{
 			"time": [
-				"10:00",
-				"10:30"
+				"10:05",
+				"10:35"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/louqian.png",
-				"name": "娄钱",
-				"desc": "中佛罗里达大学助理教授",
-				"url": "https://qlou.org/"
+				"img": "assets/img/speakers/linyankai.png",
+				"name": "林衍凯",
+				"desc": "中国人民大学高瓴人工智能学院准聘助理教授",
+				"url": "https://linyankai.github.io/"
 			},
-			"type": "专题报告",
-			"title": "探索高效的、隐私保护的深度学习",
+			"type": "讲者专题报告",
+			"title": "大模型工具学习",
 			"slides": "",
-			"recoding": "<a href=\"https://www.bilibili.com/video/BV1s8411j71f?p=3\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-			"desc": "深度学习已经在计算机视觉，自然语言处理，多模态学习等领域展现了强大的性能，但是深度学习巨大的存储计算要求限制了其在个人移动设备上的部署。在保证性能的同时，如何降低存储计算的要求仍然是一大挑战。 另外，部署在云端的深度学习可以利用服务器强大的计算资源给普通用户提供服务，但是用户的数据隐私亟需保护。关于隐私保证的机器学习的研究得到了越来越多的关注。在本次演讲中，我们将会介绍一种共享dictionary的结构来设计轻量级的深度学习模型，这将改善模型在个人设备上的部署。 针对云端机器学习的部署，我们将会介绍隐私保证的机器学习相关的开放问题，以及如何设计一个高效的隐私的机器学习模型。"
+			"recoding": "",
+			"desc": "近年来，大模型在自然语言处理、计算机视觉、生物学等诸多领域展现出惊人的应用价值。大模型通过在大规模无监督数据上进行预训练，在复杂交互环境中展现出了非凡的理解、推理与决策能力。然而，大模型在特定领域的任务上仍存在一定的局限性。这些任务往往需要专业化的工具或领域知识才能有效解决。本报告的内容为大模型工具学习，介绍大模型如何能够理解和使用各种工具来完成任务，包括其统一框架、主要挑战和未来方向。"
 		},
 		{
 			"time": [
-				"10:30",
-				"11:00"
+				"10:35",
+				"11:05"
 			],
 			"speaker": {
-				"img": "assets/img/speakers/liuxiaodong.png",
-				"name": "刘晓东",
-				"desc": "微软研究院深度学习研究组首席研究员",
-				"url": "https://sites.google.com/view/buptxiaodong/home"
+				"img": "assets/img/speakers/chentianlong.png",
+				"name": "陈天龙",
+				"desc": "麻省理工和哈佛大学担任博士后研究员，北卡罗来纳大学教堂山分校计算机系担任助理教授（2024年秋）",
+				"url": "https://tianlong-chen.github.io/"
 			},
-			"type": "专题报告",
-			"title": "迈向高效的人工智能模型",
+			"type": "讲者专题报告",
+			"title": "高效大语言模型微调",
 			"slides": "",
-			"recoding": "<a href=\"https://www.bilibili.com/video/BV1s8411j71f?p=4\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-			"desc": "大规模预训练模型的进步极大地改变了人工智能的格局并帮忙我们取得许多突破。但是这些大模型的效率始终有所缺乏。在本次演讲中，我想介绍通过新架构和训练算法（例如模块化和优化）提高模型训练和推理效率的方法。"
-		},
-		{
-			"time": [
-				"11:00",
-				"11:30"
-			],
-			"speaker": {
-				"img": "assets/img/speakers/chenbeidi.png",
-				"name": "陈贝迪",
-				"desc": "FAIR 研究科学家、卡内基梅隆大学助理教授",
-				"url": "https://cs.stanford.edu/people/beidic/"
-			},
-			"type": "专题报告",
-			"title": "基于现有硬件的高效稀疏且准确的基础模型训练",
-			"slides": "",
-			"recoding": "<a href=\"https://www.bilibili.com/video/BV1s8411j71f?p=5\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
-			"desc": "在近几年机器学习中，模型大小和数据量都在快速增长，因此这些大模型的训练需要消耗大量的计算资源。在本次演讲中，我将讲述一些列如何利用模型计算的稀疏性来加速数训练的工作。我们的工作展示了根据当前的硬件性质调整算法可以进一步提高模型训练的效率，而且不会降低准确性。首先我将描述 Pixelated Butterfly 和 Monarch，它们是一个在 GPU 上简单而高效的稀疏模型训练框架。他们使用基于蝶形和低秩矩阵的简单，静态且有结构的稀疏模式，同时考虑到 GPU 在密矩阵相乘的效率。它们的训练速度比密集的 Vision Transformer 和 GPT-2 同类产品快 2.5，而且准确度没有下降。然后我将介绍 AC-SGD，一种在低速网络上高效通信的流水线并行训练框架。基于一个有趣的观察，即模型参数在训练期间变化非常缓慢，AC-SGD 在通信过程中采取了压缩激活与上一次的变化而不是激活本身。它在不牺牲模型质量的情况下，在较慢的网络中以 4.3 倍的速度训练或微调 DeBERTa 和 GPT2-1.5B。最后，我将概述三个未来的研究方向——提高机器学习模型处理以及学习数据的效率、软硬件协同设计和机器学习在基础科学中的应用。"
+			"recoding": "",
+			"desc": "此报告会围绕高效大模型展开。首先会对经典的模型压算法（比如模型减枝，彩票假说）进行分享，这一部分会具体讲到如何从不规则的洗漱网络获得对硬件加速有益的规则洗漱性。之后，会对语言模型的高效微调算法进行全面的讲解，包括基于混合专家模型的高效训练，以及高效参数微调算法（比如从经典的 LoRA 形式如何获得更加泛化的高效分解）。最后，会展望下高效大模型面临的主要挑战和机遇。"
 		}
 	]
 }
