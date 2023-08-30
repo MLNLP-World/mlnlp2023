@@ -22,7 +22,7 @@
         "desc": "华为诺亚方舟实验室推荐与搜索实验室主任",
         "url": "https://scholar.google.com/citations?user=fUtHww0AAAAJ"
       },
-      "type": "讲者专题报告",
+      "type": "专题报告",
       "title": "大语言模型在推荐系统应用现状与初探",
       "slides": "",
       "recoding": "",
@@ -39,7 +39,7 @@
         "desc": "西湖大学助理教授",
         "url": "https://fajieyuan.github.io/"
       },
-      "type": "讲者专题报告",
+      "type": "专题报告",
       "title": "推荐系统预训练与迁移学习范式应用现状与初探",
       "slides": "",
       "recoding": "",
@@ -56,7 +56,7 @@
         "desc": "阿里巴巴基础大模型M6团队",
         "url": "https://jianxinma.github.io/"
       },
-      "type": "讲者专题报告",
+      "type": "专题报告",
       "title": "生成式通用大模型及其驱动的产品交互",
       "slides": "",
       "recoding": "",
@@ -73,7 +73,7 @@
         "desc": "新加坡国立大学NExT++研究员",
         "url": "https://wenjiewwj.github.io/"
       },
-      "type": "讲者专题报告",
+      "type": "专题报告",
       "title": "大模型推荐技术现状与展望",
       "slides": "",
       "recoding": "",
