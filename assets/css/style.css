@@ -158,9 +158,9 @@ h6 {
     height: 70px;
 }
 
-#header.header-unscrolled>.container-fluid {
+/* #header.header-unscrolled>.container-fluid {
     display: none !important;
-}
+} */
 
 #header #logo h1 {
     font-size: 36px;
