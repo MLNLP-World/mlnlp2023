@@ -1,6 +1,6 @@
 # MLNLP2023 Conference
 
-Welcome to MLNLP 2023 conference, please see [mlnlp2023.com](http://www.mlnlp2023.com) for more details.
+Welcome to MLNLP 2023 conference, please see [mlnlp.world/mlnlp2023](http://www.mlnlp.world/mlnlp2023) for more details.
 
 - Sept. 23 - Sept.24, 2023
 - Online conference
