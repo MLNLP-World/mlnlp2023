@@ -19,7 +19,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/liupengfei.png",
 				"name": "刘鹏飞",
-				"desc": "上海交通大学清源研究院长聘教轨副教授",
+				"desc": "上海交通大学清源研究院长聘副教授",
 				"url": "http://pfliu.com/"
 			},
 			"type": "专题报告",
@@ -70,7 +70,7 @@
 			"speaker": {
 				"img": "assets/img/speakers/chentianlong.png",
 				"name": "陈天龙",
-				"desc": "麻省理工和哈佛大学担任博士后研究员，北卡罗来纳大学教堂山分校计算机系担任助理教授（2024年秋）",
+				"desc": "麻省理工 / 哈佛大学博士后研究员<br>北卡罗来纳大学教堂山分校计算机系准聘助理教授",
 				"url": "https://tianlong-chen.github.io/"
 			},
 			"type": "专题报告",

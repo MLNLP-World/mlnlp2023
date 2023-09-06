@@ -1,6 +1,6 @@
 {
   "session_name": "Session 5: 大模型与知识图谱 <span style=\"white-space: pre;word-break: break-word;\"> (9月24日 13:30-15:30) </span>",
-  "session_chair": "论坛主席：张宁豫 (浙江大学 副教授) &nbsp;&nbsp;&nbsp;&nbsp; 吴天星 (东南大学 讲师)",
+  "session_chair": "论坛主席：张宁豫 (浙江大学) &nbsp;&nbsp;&nbsp;&nbsp; 吴天星 (东南大学)",
   "session_desc": "知识图谱和大型语言模型都是用来表示和处理知识的手段。大模型补足了理解语言的能力，知识图谱则丰富了表示知识的方式，两者的深度结合必将为人工智能提供更为全面、可靠、可控的知识处理方法。本次大模型与知识图谱论坛邀请了四位优秀学者进行分享，他们将带来大模型与知识图谱领域的最新研究进展，并对知识图谱与大模型的融合之道展开深入探讨。",
   "session_time": [
     "13:30",
@@ -19,7 +19,7 @@
       "speaker": {
         "img": "assets/img/speakers/renfeiliang.png",
         "name": "任飞亮",
-        "desc": "东北大学副教授，博士生导师，计算机科学系主任",
+        "desc": "东北大学副教授/博士生导师 / 计算机科学系主任",
         "url": "http://faculty.neu.edu.cn/renfeiliang/zh_CN/index.htm"
       },
       "type": "专题报告",
@@ -53,7 +53,7 @@
       "speaker": {
         "img": "assets/img/speakers/zhaosendong.png",
         "name": "赵森栋",
-        "desc": "哈尔滨工业大学副教授，博士生导师",
+        "desc": "哈尔滨工业大学副教授 / 博士生导师",
         "url": ""
       },
       "type": "专题报告",
@@ -70,7 +70,7 @@
       "speaker": {
         "img": "assets/img/speakers/hulinmei.png",
         "name": "胡琳梅",
-        "desc": "北京理工大学副教授，特别研究员",
+        "desc": "北京理工大学副教授 / 特别研究员",
         "url": "https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm"
       },
       "type": "专题报告",
