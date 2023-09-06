@@ -24,8 +24,8 @@
       },
       "type": "专题报告",
       "title": "交叉关联图神经网络的理论研究及其应用",
-      "slides": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
+      "slides": "",
+      "recoding": "",
       "desc": "Transformer 的大模型进化而来。而且，这种趋势正在向图像、语音、蛋白质序列预测、强化学习等多个领域蔓延。整个 AI 社区似乎出现了一种大一统的趋势。这种同质化也带来了一些隐患，因为基础模型的安全性、公平性、隐私性缺陷也会被所有下游模型所继承。本报告将介绍大模型的安全伦理风险以及带来的社会影响，探讨通过人类反馈的强化学习算法实现价值观对齐-MOSS RLHF，以及缓解安全伦理问题的可行方案。"
     },
     {
@@ -41,8 +41,8 @@
       },
       "type": "专题报告",
       "title": "大模型评估：从文本任务导向到真实人类任务导向",
-      "slides": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-file-earmark-slides-fill\"></i></a>",
-      "recoding": "<a href=\"\" target=\"_blank\" style=\"line-height: 1;\" ><i class=\"bi bi-camera-reels-fill\"></i></a>",
+      "slides": "",
+      "recoding": "",
       "desc": "随着大语言模型能力的快速增强，如何准确评估这些模型在处理真实人类任务上的表现已经成为通用人工智能（AGI）领域的焦点问题。尽管面向传统自然语言任务的评测方法可衡量机器在特定能力上的表现，但这往往难以全面反映模型是否能达到人类的知识和推理水平，进而帮助解决复杂任务。本讲座将重点探讨大模型在实际人类任务中的评测方法，分享最新的研究成果，并介绍我们新提出的评测基准AGIEval。AGIEval 旨在评估大模型在人类认知和问题解决方面的通用能力，并结合了多种高标准的人类考试作为评测标准。"
     },
     {
