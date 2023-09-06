@@ -1,5 +1,5 @@
 {
-	"session_name": "Session 1: 大模型构建与微调 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 09:00-11:05) </span>",
+	"session_name": "Session 1: 大模型构建与微调 <span style=\"white-space: pre;word-break: break-word;\"> (9月23日 09:05-11:05) </span>",
 	"session_chair": "论坛主席：刘乾 (Sea AI Lab) &nbsp;&nbsp;&nbsp;&nbsp; 王亚庆 (Google Research)",
 	"session_desc": "随着数据规模的急剧增加和下游任务复杂度的快速增长，大模型的构建和微调已经成为深度学习研究的关键话题。本论坛主要关注大模型构建背后的原理和方法，包括大模型对齐、大模型工具学习、大模型高效微调，与大模型时代的研究方向。本论坛邀请四位知名研究人员分享他们关于大模型的研究成果，旨在为研究人员、学者和从业者提供大模型相关成果讨论与互动的平台。",
 	"session_time": [
